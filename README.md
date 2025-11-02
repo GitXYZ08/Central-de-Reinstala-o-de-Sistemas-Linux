@@ -1,0 +1,1 @@
+# Central-de-Reinstala-o-de-Sistemas-Linux
