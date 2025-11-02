@@ -2,7 +2,7 @@
 
 ## 📖 Descrição
 
-**OSCentral** é uma ferramenta desenvolvida por **GitXYZ08** para reinstalar sistemas Linux de forma automatizada e centralizada.
+**OSCentral** é uma ferramenta desenvolvida para reinstalar sistemas Linux de forma automatizada e centralizada.
 
 Ele permite escolher entre diversas distribuições (Debian, Ubuntu, Kali, Arch, Fedora, CentOS, Alpine, openSUSE, etc.), formatar o disco selecionado e instalar o sistema do zero — tudo via **linha de comando**, sem precisar de ISO.
 
